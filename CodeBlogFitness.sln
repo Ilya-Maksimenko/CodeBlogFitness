@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitness.BL", "CodeBlogFitness.BL\CodeBlogFitness.BL.csproj", "{D18D73FB-2A47-46C5-A4D2-D640F2D226BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitness.CMD", "CodeBlogFitness.CMD\CodeBlogFitness.CMD.csproj", "{CEC6A663-F817-46D4-A582-E55BE5DD8239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18D73FB-2A47-46C5-A4D2-D640F2D226BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18D73FB-2A47-46C5-A4D2-D640F2D226BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18D73FB-2A47-46C5-A4D2-D640F2D226BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18D73FB-2A47-46C5-A4D2-D640F2D226BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC6A663-F817-46D4-A582-E55BE5DD8239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC6A663-F817-46D4-A582-E55BE5DD8239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC6A663-F817-46D4-A582-E55BE5DD8239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC6A663-F817-46D4-A582-E55BE5DD8239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87941A9C-6AF6-459F-814F-669EF017E901}
+	EndGlobalSection
+EndGlobal
