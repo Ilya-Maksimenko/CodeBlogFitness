@@ -1,11 +1,11 @@
 ﻿using System;
 
 namespace CodeBlogFitness.BL.Model
-{
+{   [Serializable]
     /// <summary>
     /// Пользователь.
     /// </summary>
-    class User
+    public class User
     {
         #region Свойства
         /// <summary>

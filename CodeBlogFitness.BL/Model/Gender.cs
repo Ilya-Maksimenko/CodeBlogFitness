@@ -3,6 +3,7 @@
 
 namespace CodeBlogFitness.BL.Model
 {
+    [Serializable]
     /// <summary>
     /// Пол.
     /// </summary>
